@@ -1,4 +1,4 @@
-# Birthday wishes generator
+# Star signs information
 ## Features
-- Creating fast wishes by simply inputing the name
-- Getting suprised each time and picking the best wish you can
+- Finding out about your destiny
+- Partner compability test
